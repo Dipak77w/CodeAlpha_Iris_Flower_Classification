@@ -25,7 +25,7 @@ The classification is based on four flower measurements:
 - Matplotlib
 - Seaborn
 
-## 🤖 Machine Learning Model
+# 🤖 Machine Learning Model
 
 I used **Logistic Regression** to classify the Iris flower species.
 
