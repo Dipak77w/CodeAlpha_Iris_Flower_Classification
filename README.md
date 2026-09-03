@@ -65,11 +65,11 @@ Each sample contains four measurements:
 
 Make sure Python is installed on your computer.
 
-### 2. Install required libraries
+## 2. Install required libraries
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-
+for running the program....
 
 
 
