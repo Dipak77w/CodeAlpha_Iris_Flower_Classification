@@ -69,7 +69,7 @@ Make sure Python is installed on your computer.
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-for running the program....
+
 
 
 
